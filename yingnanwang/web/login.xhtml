@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://java.sun.com/jsf/html">
+	<h:head>
+		<title>login</title>
+	</h:head>
+	<h:body>
+		<h:form>
+			<h:outputLabel for="username" value="用户名"/>
+			<h:inputText id="username" value="#{login.name}" maxlength="15"/>
+			<p></p>
+			<h:outputLabel for="password" value="密　码"/>
+			<h:inputSecret id="password" value="#{login.pw}" maxlength="15"/>
+			<p></p>
+			<h:commandButton id="reset" value="重置" type="reset"/>
+			<h:commandButton id="submit" value="登录" action="#{login.action}"/>
+		</h:form>
+	</h:body>
+</html>
+
