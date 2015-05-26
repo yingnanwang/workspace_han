@@ -4,13 +4,11 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/C:/Users/han/Documents/NetBeansProjects/workspace_han/yingnanwang/web/login.xhtml</file>
-            <file>file:/C:/Users/han/Documents/NetBeansProjects/workspace_han/yingnanwang/src/java/model/UserManager.java</file>
-            <file>file:/C:/Users/han/Documents/NetBeansProjects/workspace_han/yingnanwang/src/java/bean/Login.java</file>
-            <file>file:/C:/Users/han/Documents/NetBeansProjects/workspace_han/yingnanwang/src/java/model/DataBase.java</file>
+            <file>file:/C:/Users/han/Documents/NetBeansProjects/workspace_han/yingnanwang/web/upload-photo.html</file>
             <file>file:/C:/Users/han/Documents/NetBeansProjects/workspace_han/yingnanwang/web/success.xhtml</file>
-            <file>file:/C:/Users/han/Documents/NetBeansProjects/workspace_han/yingnanwang/web/WEB-INF/sun-web.xml</file>
-            <file>file:/C:/Users/han/Documents/NetBeansProjects/workspace_han/yingnanwang/web/failure.xhtml</file>
-            <file>file:/C:/Users/han/Documents/NetBeansProjects/workspace_han/yingnanwang/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/han/Documents/NetBeansProjects/workspace_han/yingnanwang/web/message.html</file>
+            <file>file:/C:/Users/han/Documents/NetBeansProjects/workspace_han/yingnanwang/web/my-account.html</file>
+            <file>file:/C:/Users/han/Documents/NetBeansProjects/workspace_han/yingnanwang/web/index.html</file>
         </group>
     </open-files>
 </project-private>
