@@ -22,7 +22,7 @@ body{
 }
 .header-logo a h1{
 	font-family: 'Oleo Script', cursive;
-	color:#1ba8ed;
+	color:#53e3a6;
 	margin: 0;
 	font-size: 52px;
 }
@@ -44,14 +44,14 @@ body{
 	font-size: 24px;
 	font-weight: 100;
 	padding: .5em;
-	color:#d4d4d4;
+	color:#53e3a6;
 	font-family: opan-sans serif;
 	border: 3px solid white;
 	border-radius: 28px;
 }
 .top-nav ul  a:hover,.top-nav ul  a.active{
-	color:#46b8f0;
-	border-color: #1ba8ed;
+	color:#53e3a6;
+	border-color: #53e3a6;
 	transition:.5s all;
 }
 .banner{
